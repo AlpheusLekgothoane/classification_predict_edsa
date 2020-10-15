@@ -1,0 +1,12 @@
+Sentiments Analysis:
+
+step 1: Tokenization (the | Movie | was | Great)
+step 2: Cleaning Data
+step 3: Remove Stop words
+Step 4: Classification( positive, Negative, Neutral)
+
+
+Detail step 4:
+              train your model with Bag of words or Lexicons and test it on the analysis statement
+
+Step 5: Calcuation:
